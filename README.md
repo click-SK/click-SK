@@ -94,8 +94,5 @@
 
 ###
 
-<br clear="both">
 
-<img src="https://raw.githubusercontent.com/click-SK/click-SK/output/snake.svg" alt="Snake animation" />
 
-###
