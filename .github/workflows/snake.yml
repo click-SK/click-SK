@@ -28,5 +28,14 @@ jobs:
         with:
           target_branch: output
           build_dir: dist
+          domain: github.com
+          keep_history: false
+          allow_empty_commit: true
+          absolute_build_dir: false
+          follow_symlinks: false
+          jekyll: true
+          dry_run: false
+          verbose: false
         env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GITHUB_TOKEN: ${{ secrets.Fletron49912709 }}
+
