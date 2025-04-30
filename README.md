@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Oleksandr Kushnir and I'm a Web-Developer, from Ukraine</h2>
+
 
 ###
 
